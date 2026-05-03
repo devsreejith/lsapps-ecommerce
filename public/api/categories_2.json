@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Uniform",
+      "slug": "uniform",
+      "productCount": 15,
+      "icon": "/assets/images/category/icons/uniform.svg",
+      "tags": [
+        "uniform",
+        "dubai police"
+      ],
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/uniform.jpg",
+        "original": "/assets/images/category/uniform.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Toys",
+      "slug": "toys",
+      "productCount": 8,
+      "icon": "/assets/images/category/icons/toys.png",
+      "tags": [
+        "toys",
+        "kids"
+      ],
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/toys.jpg",
+        "original": "/assets/images/category/toys.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Stationary",
+      "slug": "stationary",
+      "productCount": 12,
+      "icon": "/assets/images/category/icons/stationary.png",
+      "tags": [
+        "stationary",
+        "office",
+        "school"
+      ],
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/stationary.jpg",
+        "original": "/assets/images/category/stationary.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Souvenir",
+      "slug": "souvenir",
+      "productCount": 20,
+      "icon": "/assets/images/category/icons/souvenir.png",
+      "tags": [
+        "souvenir",
+        "gift",
+        "memorabilia"
+      ],
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/souvenir.jpg",
+        "original": "/assets/images/category/souvenir.jpg"
+      }
+    }
+  ]
+}
