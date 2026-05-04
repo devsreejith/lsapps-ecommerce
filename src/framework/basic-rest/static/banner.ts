@@ -835,7 +835,7 @@ export const bannerDataFourMobile = [
     slug: "summer-collection",
     image: {
       mobile: {
-        url: "/assets/images/banner/masonry/banner-mobile-11.jpg",
+        url: "/assets/images/banner/masonry/banner-mobile-11-1.jpg",
         width: 470,
         height: 232,
       },
@@ -1364,12 +1364,12 @@ export const homeContemporaryHeroSlider = [
     slug: "latest-collections",
     image: {
       mobile: {
-        url: "/assets/images/hero/banner-mobile-12.png",
+        url: "/assets/images/hero/banner-mobile-12-1.png",
         width: 900,
         height: 540,
       },
       desktop: {
-        url: "/assets/images/hero/banner-12.webp",
+        url: "/assets/images/hero/banner-12-1.webp",
         width: 1920,
         height: 900,
       },
@@ -1422,7 +1422,7 @@ export const contemporaryBanner1 = {
   slug: "latest-collections",
   image: {
     mobile: {
-      url: "/assets/images/banner/banner-mobile-11.jpg",
+      url: "/assets/images/banner/banner-mobile-11-1.jpg",
       width: 900,
       height: 540,
     },
