@@ -1335,7 +1335,7 @@ export const homeContemporaryHeroSlider = [
         height: 540,
       },
       desktop: {
-        url: "/assets/images/hero/banner-10.webp",
+        url: "/assets/images/hero/banner-10.1.webp",
         width: 1920,
         height: 900,
       },

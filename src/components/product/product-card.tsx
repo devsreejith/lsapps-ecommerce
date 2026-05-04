@@ -165,7 +165,7 @@ const ProductCard: FC<ProductProps> = ({
             (variant === "gridModernWide" ||
               variant === "gridModern" ||
               variant === "gridTrendy") && (
-              <span className="bg-[#B26788] text-white text-10px md:text-xs leading-5 rounded-md inline-block px-1.5 sm:px-1.5 xl:px-2 py-0.5 sm:py-1">
+              <span className="bg-heading text-white text-10px md:text-xs leading-5 rounded-md inline-block px-1.5 sm:px-1.5 xl:px-2 py-0.5 sm:py-1">
                 <p>
                   New <span className="hidden sm:inline">Arrival</span>
                 </p>

@@ -32,7 +32,7 @@ export const siteSettings = {
     address: '',
   },
   logo: {
-    url: '/assets/images/logo.png',
+    url: '/assets/images/logo-v1.png',
     alt: 'Dubai Police Online Store',
     href: '/',
     width: 175,
