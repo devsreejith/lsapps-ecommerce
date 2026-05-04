@@ -28,7 +28,7 @@ export const siteSettings = {
   description: 'Online Store',
   author: {
     name: 'Dubai Police',
-    websiteUrl: 'https://www.dubaipolice.gov.ae/',
+    websiteUrl: 'https://ecommerce.lsapps.in/',
     address: '',
   },
   logo: {
@@ -524,59 +524,7 @@ export const siteSettings = {
       {
         id: 1,
         path: '/',
-        label: 'menu-demos',
-        subMenu: [
-          {
-            id: 1,
-            path: '/',
-            label: 'menu-modern',
-          },
-          {
-            id: 2,
-            path: '/standard',
-            label: 'menu-standard',
-          },
-          {
-            id: 3,
-            path: '/minimal',
-            label: 'menu-minimal',
-          },
-          {
-            id: 4,
-            path: '/vintage',
-            label: 'menu-vintage',
-          },
-          {
-            id: 5,
-            path: '/classic',
-            label: 'menu-classic',
-          },
-          {
-            id: 6,
-            path: '/trendy',
-            label: 'menu-trendy',
-          },
-          {
-            id: 7,
-            path: '/elegant',
-            label: 'menu-elegant',
-          },
-          {
-            id: 8,
-            path: '/refined',
-            label: 'menu-refined',
-          },
-          {
-            id: 9,
-            path: '/contemporary',
-            label: 'menu-contemporary',
-          },
-          {
-            id: 10,
-            path: '/ancient',
-            label: 'menu-ancient',
-          },
-        ],
+        label: 'Home',
       },
       {
         id: 2,

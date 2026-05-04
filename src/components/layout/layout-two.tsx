@@ -22,9 +22,9 @@ export default function Layout({ children }: React.PropsWithChildren<{}>) {
 				]}
 				title="Dubai Police Online Store"
 				description="Online Store"
-				canonical="https://your-dubai-police-site.com"
+				canonical="https://ecommerce.lsapps.in/"
 				openGraph={{
-					url: 'https://your-dubai-police-site.com',
+					url: 'https://ecommerce.lsapps.in/',
 					title: 'Dubai Police Online Store',
 					description:
 						'Online Store',
