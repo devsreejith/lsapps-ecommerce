@@ -743,12 +743,12 @@ export const bannerDataFour = [
     slug: "exclusive-sunglasses",
     image: {
       mobile: {
-        url: "/assets/images/banner/masonry/banner-mobile-10.jpg",
+        url: "/assets/images/banner/masonry/banner-mobile-10-1.jpg",
         width: 232,
         height: 232,
       },
       desktop: {
-        url: "/assets/images/banner/masonry/banner-10.jpg",
+        url: "/assets/images/banner/masonry/banner-10-1.jpg",
         width: 403,
         height: 403,
       },
@@ -799,12 +799,12 @@ export const bannerDataFourMobile = [
     slug: "exclusive-sunglasses",
     image: {
       mobile: {
-        url: "/assets/images/banner/masonry/banner-mobile-10.jpg",
+        url: "/assets/images/banner/masonry/banner-mobile-10-1.jpg",
         width: 232,
         height: 232,
       },
       desktop: {
-        url: "/assets/images/banner/masonry/banner-10.jpg",
+        url: "/assets/images/banner/masonry/banner-10-1.jpg",
         width: 403,
         height: 403,
       },
@@ -1311,12 +1311,12 @@ export const homeEightWinterBanner = {
   slug: "latest-collections",
   image: {
     mobile: {
-      url: "/assets/images/banner/banner-mobile-10.jpg",
+      url: "/assets/images/banner/banner-mobile-10-1.jpg",
       width: 900,
       height: 420,
     },
     desktop: {
-      url: "/assets/images/banner/banner-10.jpg",
+      url: "/assets/images/banner/banner-10-1.jpg",
       width: 1800,
       height: 620,
     },
@@ -1330,7 +1330,7 @@ export const homeContemporaryHeroSlider = [
     slug: "latest-collections",
     image: {
       mobile: {
-        url: "/assets/images/hero/banner-mobile-10.png",
+        url: "/assets/images/hero/banner-mobile-10-1.png",
         width: 900,
         height: 540,
       },
@@ -1440,12 +1440,12 @@ export const contemporaryBanner2 = {
   slug: "latest-collections",
   image: {
     mobile: {
-      url: "/assets/images/banner/banner-mobile-12.jpg",
+      url: "/assets/images/banner/banner-mobile-12-1.jpg",
       width: 900,
       height: 300,
     },
     desktop: {
-      url: "/assets/images/banner/banner-12.png",
+      url: "/assets/images/banner/banner-12-1.png",
       width: 1800,
       height: 300,
     },
